@@ -135,7 +135,7 @@ namespace TechJobsMVC.Data
 
         static private void LoadData()
         {
-            if(IsDataLoaded)
+            if (IsDataLoaded)
             {
                 return;
             }
@@ -270,3 +270,4 @@ namespace TechJobsMVC.Data
         }
     }
 }
+
